@@ -20,25 +20,21 @@ Aşağıda bu depoda yer alan projelerin kısa özetlerini bulabilirsiniz. Her p
 * **Veri Tipi:** Sürekli ve sayısal veriler.
 * **Odak Noktası:** Şarapların kimyasal bileşenlerinin (alkol, asitlik, sülfür vb.) şarap kalitesine olan etkisini incelemek.
 * **Kazanımlar:** Korelasyon analizi (Heatmap), aykırı değer tespiti (Boxplot) ve çoklu değişkenlerin birbiriyle ilişkisini modellemeye hazırlamak.
-* **Klasör:** `[01_Wine_Quality_EDA](./01_Wine_Quality_EDA)`
 
 ### 2. 👥 İnsan Kaynakları Analitiği (IBM HR Attrition)
 * **Veri Tipi:** Kategorik ve ikili (binary) veriler.
 * **Odak Noktası:** Şirket çalışanlarının işten ayrılma (attrition) nedenlerini analiz etmek (Düşük maaş mı, departman uyuşmazlığı mı, yoksa fazla mesai mi?).
 * **Kazanımlar:** Kategorik veri sınıflandırması, demografik görselleştirmeler (Countplot, Barplot) ve nedensellik araştırması.
-* **Klasör:** `[02_IBM_HR_Attrition](./02_IBM_HR_Attrition)`
 
 ### 3. 🛒 Süpermarket Satış Performansı (Supermarket Sales)
 * **Veri Tipi:** Zaman serisi, tarih ve finansal veriler.
 * **Odak Noktası:** Farklı şubelerdeki müşteri davranışlarını (üye vs. normal), gün/saat bazlı satış trendlerini ve ürün gruplarının karlılığını incelemek.
 * **Kazanımlar:** İş Zekası (Business Intelligence) odaklı analiz, zaman serisi grafikleri (Lineplot) ve müşteri segmentasyonu.
-* **Klasör:** `[03_Supermarket_Sales](./03_Supermarket_Sales)`
 
 ### 4. 🎵 Spotify Şarkı Özellikleri (Spotify Tracks)
 * **Veri Tipi:** Çok boyutlu, karmaşık ve eğlenceli veriler.
 * **Odak Noktası:** Bir şarkıyı "hit" yapan özellikleri (enerji, dans edilebilirlik, tempo) ve bunların popülerlik skorlarıyla olan bağlantısını analiz etmek.
 * **Kazanımlar:** Çok boyutlu görselleştirmeler (renk ve boyut parametreleriyle Scatterplot) ve yaratıcı veri hikayeciliği.
-* **Klasör:** `[04_Spotify_Tracks](./04_Spotify_Tracks)`
 
 ---
 
@@ -64,24 +60,20 @@ Below you can find brief summaries of the projects included in this repository. 
 * **Data Type:** Continuous and numerical data.
 * **Focus:** Investigating the impact of chemical components (alcohol, acidity, sulfur, etc.) on wine quality.
 * **Key Learnings:** Correlation analysis (Heatmap), outlier detection (Boxplot), and preparing multi-variable relationships for predictive modeling.
-* **Folder:** `[01_Wine_Quality_EDA](./01_Wine_Quality_EDA)`
 
 ### 2. 👥 IBM HR Attrition Analytics
 * **Data Type:** Categorical and binary data.
 * **Focus:** Analyzing the reasons behind employee attrition (Low salary? Department mismatch? Overtime?).
 * **Key Learnings:** Categorical data classification, demographic visualizations (Countplot, Barplot), and causality research.
-* **Folder:** `[02_IBM_HR_Attrition](./02_IBM_HR_Attrition)`
 
 ### 3. 🛒 Supermarket Sales Performance
 * **Data Type:** Time-series, datetime, and financial data.
 * **Focus:** Examining customer behavior across different branches (member vs. normal), day/hour-based sales trends, and the profitability of product lines.
 * **Key Learnings:** Business Intelligence (BI) focused analysis, time-series charts (Lineplot), and customer segmentation.
-* **Folder:** `[03_Supermarket_Sales](./03_Supermarket_Sales)`
 
 ### 4. 🎵 Spotify Tracks Features
 * **Data Type:** Multi-dimensional, complex, and entertaining data.
 * **Focus:** Analyzing the audio features that make a song a "hit" (energy, danceability, tempo) and their connection to popularity scores.
 * **Key Learnings:** Multi-dimensional visualizations (Scatterplots with hue and size parameters) and creative data storytelling.
-* **Folder:** `[04_Spotify_Tracks](./04_Spotify_Tracks)`
 
 ---
