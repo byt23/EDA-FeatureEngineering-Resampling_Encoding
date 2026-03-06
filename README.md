@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.tr.md"><img src="https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Oku-red?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Türkçe"></a>
+</div>
+
 # 📊 EDA, Feature Engineering & Resampling Portfolio
 
 <div align="center">
@@ -6,6 +10,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-3182CE?style=for-the-badge)]()
 
 </div>
 
