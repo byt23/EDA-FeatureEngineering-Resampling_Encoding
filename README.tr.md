@@ -1,22 +1,19 @@
 ---
 
-### 2. Türkçe Versiyon (`README.tr.md` dosyası)
-
-```markdown
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/English-Read-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/English-Read-blue?style=for-the-badge" alt="English"></a>
 </div>
 
 # 📊 EDA, Özellik Mühendisliği (Feature Engineering) & Yeniden Örnekleme (Resampling) Portföyü
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-3182CE?style=for-the-badge)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3182CE?style=for-the-badge)
 
 </div>
 
